@@ -2,17 +2,26 @@
 
 
 clone the project, and type the command.  
-
-debug mode
+first install all packages.
 
 ```
-yarn
+yarn 
+```
+
+then
+
+with nodemon
+```
+yarn start
+```
+or w/o nodemon
+
+```
 yarn start:serve
 ```
-or production mode
+build project
 
 ```
-yarn
 yarn build
 yarn serve
 ```
