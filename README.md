@@ -1,7 +1,7 @@
 # babel7-nodejs-starter
 
 
-clone the project, and type the command.  
+clone the project, and type the commands as below.  
 first install all packages.
 
 ```
