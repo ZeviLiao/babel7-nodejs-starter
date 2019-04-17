@@ -1,7 +1,8 @@
-# scrape-browser
+# babel7-nodejs-starter
 
 
-clone the project, and type the command.
+clone the project, and type the command.  
+
 debug mode
 
 ```
@@ -15,7 +16,3 @@ yarn
 yarn build
 yarn serve
 ```
-
-check the /result.json
-
-Thank you.
